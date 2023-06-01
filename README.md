@@ -1,0 +1,1 @@
+This is an example project with Platform.io for ATSAMD21G
